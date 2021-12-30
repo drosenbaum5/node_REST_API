@@ -20,6 +20,7 @@
   "homepage": "https://github.com/drosenbaum5/node_REST_API#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4"
   }
 }
